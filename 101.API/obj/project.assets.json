@@ -230,11 +230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jbragulat\\source\\repos\\101.API\\101.API\\101.API.csproj",
+      "projectUniqueName": "C:\\Users\\jbragulat\\Source\\Repos\\BACKEND-API\\101.API\\101.API.csproj",
       "projectName": "101.API",
-      "projectPath": "C:\\Users\\jbragulat\\source\\repos\\101.API\\101.API\\101.API.csproj",
+      "projectPath": "C:\\Users\\jbragulat\\Source\\Repos\\BACKEND-API\\101.API\\101.API.csproj",
       "packagesPath": "C:\\Users\\jbragulat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jbragulat\\source\\repos\\101.API\\101.API\\obj\\",
+      "outputPath": "C:\\Users\\jbragulat\\Source\\Repos\\BACKEND-API\\101.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
